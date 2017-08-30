@@ -1,0 +1,33 @@
+.vertical-menu ul{
+    
+    display: block;
+    list-style-type: none;
+    width: 250px;
+    background-color:#ecf0f1;
+    margin: 0;
+    padding: 0;
+
+   
+}
+
+a{
+    text-decoration:none;
+    font-style: italic;
+}
+li{
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+}
+
+.vertical-menu  {
+    background: #ecf0f1;
+    background: transparent;
+}
+
+.vertical-menu  li:hover{
+    background-color: red;
+    text-decoration-color: green;
+}
+
+#9b59b6
