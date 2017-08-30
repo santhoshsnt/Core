@@ -1,0 +1,114 @@
+.form-holder{
+    width:480px;
+    background-color: #bababa;
+   
+    height: 396px;
+    opacity: .6;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:30px;
+    border-radius:5px;
+}
+
+fieldset{
+    border-radius: 5px;
+}
+body{
+    background-image: url("../image/bg1.jpg");
+}
+
+.address-holder{
+    width: 480px;
+    background-color: #bababa;
+    height: 490px;
+    opacity: .6;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.communication-holder{
+    width: 480px;
+    background-color: #bababa;
+    height: 490px;
+    opacity: .6;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+
+input[type=text]{
+    border-radius: 5px;
+}
+
+input[type=number]{
+    border-radius:5px;
+}
+input[type=submit]{
+    border-radius: 5px;
+}
+
+#domain{
+    border-radius: 5px;
+}
+#submit{
+    border-radius: 10px;
+}
+
+input,select{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#user,#stname,#location,#city,#state,#pincode,#country{
+    width:100%;
+}
+#drno{
+    width: 100%;
+}
+
+#firstname{
+    width:48.65%;
+}
+#lastname{
+    width: 48.65%;
+}
+#email{
+    width: 48.65%;
+}
+
+#domain{
+    width:48.65%;
+}
+#gen{
+    margin-left: 30%;
+}
+
+#phno{
+    width: 50%;
+}
+
+
+#c{
+    margin-left: 3%;
+
+}
+#cp{
+    margin-left:32%;
+}
+#python{
+    margin-left: 30%;
+}
+#java{
+    margin-left: 3%;
+}
+#js{
+    margin-left: 28%;
+}
+#perl{
+    margin-left: 22%;
+}
+
